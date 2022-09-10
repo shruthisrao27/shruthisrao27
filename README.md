@@ -1,4 +1,4 @@
-[![MasterHead](https://auzziebusiness.com.au/wp-content/uploads/2021/04/web-development.jpg)](https://shruthisrao.io)
+[![MasterHead](http://www.webitexperts.com/images/banner1_1.gif)](https://shruthisrao.io)
 
 Hi there, I'm Shruthi 👋
 
