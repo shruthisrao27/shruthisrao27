@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **stock website**
 
-- 💬 Ask me about **react,java script, html css,node js,mongo dbb,my sql**
+- 💬 Ask me about **react,java script, html css,my sql**
 
 - 📫 How to reach me **sraoshruthi5@gmail.com**
 
