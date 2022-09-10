@@ -1,3 +1,5 @@
+[![MasterHead](https://auzziebusiness.com.au/wp-content/uploads/2021/04/web-development.jpg)](https://shruthisrao.io)
+
 Hi there, I'm Shruthi 👋
 
 I'm a Full-stack Software Developer and Javascript Enthusiast!
