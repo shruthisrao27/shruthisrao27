@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **e-commerce**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **stock website**
 
