@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/shruthisrao3" target="blank"><img src="https://img.shields.io/twitter/follow/shruthisrao3?logo=twitter&style=for-the-badge" alt="shruthisrao3" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on **Analytics**
 
 - 🌱 I’m currently learning **technology**
 
-- 👯 I’m looking to collaborate on **stock website**
+- 👯 I’m looking to collaborate on **latest stack**
 
 - 💬 Ask me about **react,java script, html css,my sql**
 
 - 📫 How to reach me **sraoshruthi5@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
