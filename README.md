@@ -48,5 +48,5 @@
 
 <img align="center" alt="Coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV1aGhvN3pwdmowdG1uY2c5NzlqZDFmdWlwMWd1dWx5eDFueXB0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EUzxFv6gsWoOLNP4dD/giphy.gif">
 <img align="center" alt="Coding" width="500" src="https://www.animaapp.com/blog/wp-content/uploads/2022/11/anima-figma-plugin-for-developers.gif">
-
+<img align="right" alt="Coding" width="500" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/1percent_Blog_Header.gif">
 
