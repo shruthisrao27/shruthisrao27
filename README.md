@@ -1,5 +1,5 @@
 
-<img  alt="Coding" width="900" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1nM2kwdjA4eWd3ZnZuN2hrYXpncG00Z2F5aXdycG12cmJkbnhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif">
+<img  alt="Coding" width="1000" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1nM2kwdjA4eWd3ZnZuN2hrYXpncG00Z2F5aXdycG12cmJkbnhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif">
 <h1 align="center">Hi 👋, I'm Shruthi S Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXByb2Rrc2FzZjQzMmdhY3gxZWI1Mnk4Y3h4eHlxZTF2amI0dWZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiCqg1AAHVnwJ67CTy/giphy.gif">
