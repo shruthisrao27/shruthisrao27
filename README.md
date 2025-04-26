@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sraoshruthi5@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMwcDR1cWNqbndzanptN3BxdzVxcjFkNWtmems5dTgzNDVoMWV2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTTcm7b3FzLoTMfNfp/giphy.gif">
+<img align="right" alt="Coding" width="400" https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hpMTZ4cHo5c2g0aGhyMmI5d21ydGtoY2t2bmh1bWN1c2xibzJqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5gY868p0ytB4LnIN9m/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
