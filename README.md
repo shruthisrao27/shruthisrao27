@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shruthi S Rao</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="left">I am a passionate software developers with a Bachelor's Degree in Information Science, specializing in Web Development, Data Analysis, and UX/UI Design. With a strong foundation in both front-end and back-end technologies, we focus on creating responsive, user-friendly websites and applications that are driven by data and designed for impact. Our goal is to build digital solutions that not only function seamlessly but also offer intuitive user experiences, combining technical expertise with a creative edge to bring ideas to life.</p>
+<img align="right" alt="Coding" width="500" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/1percent_Blog_Header.gif">
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY4aXBzbnV6YnRweDdrOXVkaGFrcWl4c3U5ZmE1dWtzazBxc3BpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZHzjkDCvL4V0h1KPs/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruthisrao27&label=Profile%20views&color=0e75b6&style=flat" alt="shruthisrao27" /> </p>
