@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shruthi S Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
 <iframe src="https://giphy.com/embed/5gY868p0ytB4LnIN9m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProductPowerhouse-5gY868p0ytB4LnIN9m">via GIPHY</a></p>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY4aXBzbnV6YnRweDdrOXVkaGFrcWl4c3U5ZmE1dWtzazBxc3BpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZHzjkDCvL4V0h1KPs/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY4aXBzbnV6YnRweDdrOXVkaGFrcWl4c3U5ZmE1dWtzazBxc3BpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZHzjkDCvL4V0h1KPs/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruthisrao27&label=Profile%20views&color=0e75b6&style=flat" alt="shruthisrao27" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sraoshruthi5@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXByb2Rrc2FzZjQzMmdhY3gxZWI1Mnk4Y3h4eHlxZTF2amI0dWZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiCqg1AAHVnwJ67CTy/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXByb2Rrc2FzZjQzMmdhY3gxZWI1Mnk4Y3h4eHlxZTF2amI0dWZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiCqg1AAHVnwJ67CTy/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
