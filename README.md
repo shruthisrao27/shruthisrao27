@@ -1,6 +1,6 @@
 
 <img  alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1nM2kwdjA4eWd3ZnZuN2hrYXpncG00Z2F5aXdycG12cmJkbnhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif">
-<img  alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV1aGhvN3pwdmowdG1uY2c5NzlqZDFmdWlwMWd1dWx5eDFueXB0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EUzxFv6gsWoOLNP4dD/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV1aGhvN3pwdmowdG1uY2c5NzlqZDFmdWlwMWd1dWx5eDFueXB0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EUzxFv6gsWoOLNP4dD/giphy.gif">
 https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV1aGhvN3pwdmowdG1uY2c5NzlqZDFmdWlwMWd1dWx5eDFueXB0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EUzxFv6gsWoOLNP4dD/giphy.gif
 <h1 align="center">Hi 👋, I'm Shruthi S Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
