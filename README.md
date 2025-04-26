@@ -1,4 +1,4 @@
-[![MasterHead](http://www.webitexperts.com/images/banner1_1.gif)](https://shruthisrao.io)
+[![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?t=st=1745645947~exp=1745649547~hmac=7337e99ec62702fd8bfe71d93b4599c6b9b77277813cd46b96db354fd0910dd5&w=996)](https://shruthisrao.io)
 
 <h1 align="center">Hi 👋, I'm Shruthi S Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
