@@ -2,6 +2,7 @@
 <img  alt="Coding" width="1000" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1nM2kwdjA4eWd3ZnZuN2hrYXpncG00Z2F5aXdycG12cmJkbnhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif">
 <h1 align="center">Hi 👋, I'm Shruthi S Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
+<iframe src="https://giphy.com/embed/5gY868p0ytB4LnIN9m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProductPowerhouse-5gY868p0ytB4LnIN9m">via GIPHY</a></p>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hpMTZ4cHo5c2g0aGhyMmI5d21ydGtoY2t2bmh1bWN1c2xibzJqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5gY868p0ytB4LnIN9m/giphy.gif">
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXByb2Rrc2FzZjQzMmdhY3gxZWI1Mnk4Y3h4eHlxZTF2amI0dWZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiCqg1AAHVnwJ67CTy/giphy.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruthisrao27&label=Profile%20views&color=0e75b6&style=flat" alt="shruthisrao27" /> </p>
